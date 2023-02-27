@@ -1,0 +1,23 @@
+nav{
+    background-color: rgb(19, 98, 177);
+}
+
+.nav-link:hover{
+    background-color:rgb(13, 65, 117);
+    color: white;
+}
+.nav-link{
+    border-radius: 8px;
+    padding: 13px;
+}
+.footer{
+    background-color: rgb(19, 98, 177);
+    color: rgb(255, 255, 255);
+}
+.footer-link{
+    text-decoration: none;
+    color: white;
+}
+.footer-link:hover{
+    color: white;
+}
